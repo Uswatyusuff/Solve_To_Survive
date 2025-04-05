@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question": "What is (3 + 2) x 2?",
+      "options": ["10", "12", "14", "8"],
+      "answer": "10"
+    },
+    {
+      "question": "What is 45 ÷ 5 + 3?",
+      "options": ["9", "10", "11", "12"],
+      "answer": "12"
+    },
+    {
+      "question": "What is 3 x 4 + 6?",
+      "options": ["16", "18", "20", "12"],
+      "answer": "18"
+    },
+    {
+      "question": "What is (9 - 3) x 2?",
+      "options": ["10", "12", "14", "8"],
+      "answer": "12"
+    },
+    {
+      "question": "What is 2 x 2 x 2?",
+      "options": ["6", "8", "4", "10"],
+      "answer": "8"
+    }
+  ]
+}

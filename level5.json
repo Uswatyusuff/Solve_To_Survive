@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question": "Sarah has 3 boxes with 6 candies each. How many total candies?",
+      "options": ["18", "20", "21", "24"],
+      "answer": "18"
+    },
+    {
+      "question": "A pizza has 8 slices. If you eat 3, what fraction remains?",
+      "options": ["3/8", "5/8", "6/8", "1/2"],
+      "answer": "5/8"
+    },
+    {
+      "question": "If a car travels 60 km in 2 hours, what is its speed?",
+      "options": ["20 km/h", "30 km/h", "60 km/h", "40 km/h"],
+      "answer": "30 km/h"
+    },
+    {
+      "question": "Solve: 3(x - 1) = 6",
+      "options": ["1", "2", "3", "4"],
+      "answer": "3"
+    },
+    {
+      "question": "What is the smallest prime number greater than 10?",
+      "options": ["11", "13", "17", "9"],
+      "answer": "11"
+    }
+  ]
+}
